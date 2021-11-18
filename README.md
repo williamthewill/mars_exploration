@@ -1,5 +1,9 @@
 # MarsExplore
 
+**Pré-requisitos**
+
+É necessário ter instalado em sua máquina o elixir
+
 **MarsExplore**
 
 Para rodar a a aplicação basta executar o terminal interativo do elixir, na raiz do diretorio da aplicação, onde se encontra o arquivo ```mix.exs```
