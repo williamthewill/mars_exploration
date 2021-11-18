@@ -3,15 +3,6 @@ defmodule MarsExplore do
   Documentation for `MarsExplore`.
   """
 
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> MarsExplore.hello()
-      :world
-
-  """
   def start do
     {:ok, coordenates} = Elixir.File.read("./inputs.txt")
     [max_area_string | probes_coodenates] = String.split(coordenates, "\n")
