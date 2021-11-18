@@ -4,6 +4,14 @@
 
 É necessário ter instalado em sua máquina o elixir
 
+**Teste**
+
+Para rodar os testes basta apenas executar o comandando abaixo, na rais do diretório da aplicação, onde se encontra o arquivo ``` mix.exs```
+
+```
+mix test
+```
+
 **MarsExplore**
 
 Para rodar a a aplicação basta executar o terminal interativo do elixir, na raiz do diretorio da aplicação, onde se encontra o arquivo ```mix.exs```
